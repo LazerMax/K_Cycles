@@ -1,7 +1,7 @@
 import kotlin.random.Random
 
 fun main() {
-    val randomNumber = Random.nextInt(1, 10) // Генерация случайного числа от 1 до 9
+    val randomNumber = Random.nextInt(1, 9) // Генерация случайного числа от 1 до 9
 
     println("Я загадал число от 1 до 9. Попробуйте угадать!")
 
